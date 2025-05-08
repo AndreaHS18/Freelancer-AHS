@@ -103,7 +103,7 @@ h1, h2, h3 {
 
 .ubicacion {
     display: flex;
-    align-items: flex-end;
+    align-items: flex-start;
 }
 
 /* MEDIA QUERIES */
